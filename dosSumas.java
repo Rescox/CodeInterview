@@ -1,6 +1,6 @@
 
 /* Dado un array de enteros buscar los dos indices de los numeros del array que obtengan
-como resultado de la suma de un entero en concreto*/
+como resultado de la suma un entero en concreto*/
 import java.util.Arrays;
 import java.util.HashMap;
 
