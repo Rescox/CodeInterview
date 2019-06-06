@@ -1,5 +1,5 @@
 import java.util.HashMap;
-/* Traductor de numeros romanos a entero y viceversa (Queda la parte de la resta y la de las repeticiones */
+/* Traductor de numeros romanos a entero y viceversa (Queda la parte de la resta y la de las repeticiones) */
 public class NumerosRomanos {
     public static int RomanToNumber(String sNumero) {
         
